@@ -1,4 +1,4 @@
 
 requires 'JSON'; 
-requires 'Net::HTTP'
-requires 'LWP::UserAgent'           
+requires 'Net::HTTP';
+requires 'LWP::UserAgent';      
