@@ -1,2 +1,3 @@
 
-requires 'JSON';            
+requires 'JSON'; 
+requires 'LWP::UserAgent'           
